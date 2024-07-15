@@ -1,4 +1,4 @@
-# practice7
+# Members and Topics Database App
 
 ## Project setup
 ```
